@@ -1,6 +1,6 @@
-## Padres >> Dodgers
+## Furuta Pendulum
 
-# Jose is a pan
+# Design PLan
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
