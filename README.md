@@ -1,5 +1,11 @@
-# Furuta Pendulum
-### Design PLan
+# MECA 482 Fall 2021
+Team members: Marcos Alpizar, Jose Leal, Jose Hernandez, Caesar Lopez, Nicholas Westerband
+
+**Introduction** 
+
+The Furuta Pendulum Project goal is to present a model where the pendulum is sustained over the arm at all times.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
