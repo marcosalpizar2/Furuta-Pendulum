@@ -1,12 +1,17 @@
 # MECA 482 Fall 2021
 Team members: Marcos Alpizar, Jose Leal, Jose Hernandez, Caesar Lopez, Nicholas Westerband
+## Table of Contents
+- 1. Introduction
+- 2. Modeling
+- 3. Controller Design and Simulation
+- 4. References
+- 5. Appendices  
+<br/><br/>  
+ 
+**1. Introduction** 
 
-**Introduction** 
-
-The Furuta Pendulum Project goal is to present a model where the pendulum is sustained over the arm at all times.
-
-
-
+The Furuta Pendulum Project goal is to present a model where the pendulum is sustained over the arm at all times. The model will utilize the  
+<br/><br/>   
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
