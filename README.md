@@ -1,11 +1,11 @@
 # MECA 482 Fall 2021
 Team members: Marcos Alpizar, Jose Leal, Jose Hernandez, Caesar Lopez, Nicholas Westerband
 ## Table of Contents
-- 1. Introduction
-- 2. Modeling
-- 3. Controller Design and Simulation
-- 4. References
-- 5. Appendices  
+- .1. Introduction
+- .2. Modeling
+- .3. Controller Design and Simulation
+- .4. References
+- .5. Appendices  
 <br/><br/>  
  
 **1. Introduction** 
