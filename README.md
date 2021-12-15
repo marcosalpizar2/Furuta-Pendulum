@@ -12,4 +12,4 @@ Team members: Marcos Alpizar, Jose Leal, Jose Hernandez, Caesar Lopez, Nicholas 
 The Furuta Pendulum Project goal is to present a model where the pendulum is sustained over the arm at all times. The model will utilize MatLab/Similink as well as coppeliasim for simulating the Pendulum.   
 <br/><br/>   
 
-![website paragraph](https://user-images.githubusercontent.com/94568471/146277241-b1d927db-e9c1-4003-8e1e-b0d320e3e77a.JPG)
+![website paragraph](https://user-images.githubusercontent.com/94568471/146277660-309dc241-99e8-4669-8865-47ea0842f9f2.JPG)
