@@ -1,4 +1,5 @@
-# Furuta Pendulum Project
+# Furuta Pendulum Project  
+[link](https://www.youtube.com/) 
 Team members: Marcos Alpizar, Jose Leal, Jose Hernandez, Caesar Lopez, Nicholas Westerband
 ## Table of Contents
 1. Introduction
