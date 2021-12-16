@@ -6,9 +6,9 @@ Team members: Marcos Alpizar, Jose Leal, Jose Hernandez, Caesar Lopez, Nicholas 
 ![pt 4](https://user-images.githubusercontent.com/94568471/146307150-a4124591-110e-402a-b8fd-18215dfaed6a.JPG)
 ![pt 5](https://user-images.githubusercontent.com/94568471/146307164-d5207766-3b77-426a-b509-7698d7db1da0.JPG)
 
+![pt 6](https://user-images.githubusercontent.com/94568471/146324677-d55849ae-1a46-476a-8f88-c11c71fa76b7.JPG)
 
   
 <br/><br/>  
 
 
-![website paragraph](https://user-images.githubusercontent.com/94568471/146277660-309dc241-99e8-4669-8865-47ea0842f9f2.JPG)
